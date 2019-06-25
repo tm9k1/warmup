@@ -15,3 +15,14 @@ A warmup exercise for Git
 
 
 NOTE : This is a simple exercise, please do make sure you complete the exercise first. 
+
+## CONTRIBUTORS
+
+- Piyush Aggarwal | brute4s99
+
+
+
+
+
+
+<p align = center> Made with 💖 by [brute4s99](http://github.com/brute4s99/)</p>
