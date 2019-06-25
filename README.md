@@ -8,3 +8,11 @@ A warmup exercise for Git
 2. [ ] Merge the branch `final_feature` into `master`.
 3. [ ] Rebase the branch `feature01` on `master` again.
 4. [ ] Make a PR to upstream (ie the repo your forked) to merge `feature01` of your fork into `feature01` of upstream.
+
+## Brownie Points
+
+- [ ] Make **verified** commits. Read more [here](https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work).
+
+
+
+NOTE : This is a simple exercise, please do make sure you complete the exercise first. 
